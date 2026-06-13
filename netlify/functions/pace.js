@@ -1,4 +1,3 @@
-netlify/functions/pace.js
 // netlify/functions/pace.js
 // Proxy sicuro tra ASCENT e OpenAI.
 // La chiave API non Ã¨ mai nel codice: viene letta dalla
